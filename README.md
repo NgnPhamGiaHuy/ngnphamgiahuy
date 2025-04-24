@@ -88,9 +88,7 @@ A microservices-based AI-powered content generator designed to automate social m
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngnphamgiahuy&layout=compact&theme=tokyonight)
-![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=ngnphamgiahuy&repo=Recial-Application&theme=tokyonight)
 ![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngnphamgiahuy&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngnphamgiahuy&theme=tokyonight)
 
 ---
 
