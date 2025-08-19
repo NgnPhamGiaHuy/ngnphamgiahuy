@@ -38,16 +38,6 @@ The application features real-time chat capabilities powered by WebSockets, allo
 
 [View Project Repository](https://github.com/NgnPhamGiaHuy/recial-social-media-platform)
 
-### 📚 Storysells - Bookstore Web Application
-
-I created Storysells to combine my love of literature with an intuitive shopping experience. This e-commerce platform connects readers with their next favorite books through personalized recommendations and a seamless purchase process.
-
-The advanced search functionality allows users to discover books based on genre, author, publication date, and reader ratings, all powered by MongoDB's flexible querying. Each purchase is secured through a multi-layer authentication system that protects both buyer and seller information.
-
-**Tech Story:** Developed with a MERN stack approach, focusing on performance optimization for quick page loads even when browsing extensive book catalogs.
-
-[View Project Repository](https://github.com/NgnPhamGiaHuy/bookstore-web-application)
-
 ### 🚀 CVGenius - AI Resume Analyzer
 
 I created CVGenius to solve a critical problem job seekers face: getting meaningful feedback on their resumes. This specialized application leverages AI to analyze resumes and provide precise, actionable recommendations that can increase interview callback rates within minutes of use.
