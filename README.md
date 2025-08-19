@@ -1,98 +1,143 @@
-# Hi there, I'm NgnPhamGiaHuy 👋
+# <div align="center">✨ NgnPhamGiaHuy ✨</div>
+<div align="center"><i>Building the bridge between AI innovation and human-centered applications</i></div>
 
-**`Junior Full-stack Developer | AI Explorer | Tech Enthusiast`**
-
-🚀 I started as a frontend developer, crafting interactive user experiences, but my curiosity led me to explore **backend development, system design, and AI**. Now, as a full-stack developer, I'm focused on **scalable applications, AI-driven solutions, and large-scale data processing**. My secret weapon? **LLMs (Large Language Models)!** I use AI tools like ChatGPT and OpenAI to **optimize workflows, automate tasks, and enhance development efficiency**.
-
----
-
-## 🌟 Highlights
-
-- 🔥 **Past & Present**: Started in frontend (React, Next.js), expanded into full-stack (Node.js, databases), and now diving deep into AI & data.
-- 🧠 **Currently exploring**: AI-powered applications, system design, and data-driven solutions.
-- 🤖 **LLMs & AI**: Implementing **OpenAI, Hugging Face**, and **custom ML models** into projects.
-- 📈 **Data & Analysis**: Using AI for **data-driven decision-making, content generation, and workflow optimization**.
-- 📚 **Lifelong learner**: Passionate about **better design patterns, clean architecture, and cutting-edge tech**.
-
----
-
-## 🛠️ Technologies & Tools
-
-### **Languages & Frameworks**
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### **Databases & Cloud**
+</div>
 
+## 🧠 My Journey
+
+My path as a developer began with crafting beautiful interfaces in React and Next.js, carefully designing each component to enhance user experiences. What started as a passion for frontend soon evolved as I found myself asking: *"What happens behind the scenes?"* This curiosity led me to venture into backend territory, exploring Node.js, databases, and system architectures.
+
+Today, I stand at an exciting intersection of full-stack development and artificial intelligence. I'm fascinated by how AI can transform applications from merely functional to genuinely intelligent. By integrating LLMs like ChatGPT and custom ML models into my projects, I've discovered ways to automate workflows, generate content, and solve complex problems that would be impossible with traditional programming alone.
+
+## 🚀 What I Create
+
+I build applications that blend modern interfaces with intelligent backends. My work focuses on:
+
+- **Socially Conscious Applications** that connect people around meaningful causes, like my environmental collaboration platform Recial
+- **AI-Enhanced Experiences** that leverage large language models to generate content and provide personalized recommendations
+- **Scalable Architectures** designed to handle growing user bases and evolving requirements through microservices and thoughtful system design
+
+## 📂 Featured Projects
+
+### 🌳 Recial - Social Network for Environmental Collaboration
+
+Recial emerged from a simple question: what if social media could drive positive environmental change? I built this platform to connect environmentalists, volunteers, and conscious citizens in collaborative eco-initiatives.
+
+The application features real-time chat capabilities powered by WebSockets, allowing immediate coordination between users. The media sharing system, built with Firebase, enables activists to share their progress through photos and live streams, creating accountability and inspiration. User authentication is handled securely through JWT and NextAuth, ensuring that sensitive environmental data remains protected.
+
+**Tech Story:** Built with React and Redux for state management, styled with TailwindCSS for responsive design across all devices, and backed by Node.js, Express, and MongoDB for a flexible document-based data structure.
+
+[View Project Repository](https://github.com/NgnPhamGiaHuy/recial-social-media-platform)
+
+### 📚 Storysells - Bookstore Web Application
+
+I created Storysells to combine my love of literature with an intuitive shopping experience. This e-commerce platform connects readers with their next favorite books through personalized recommendations and a seamless purchase process.
+
+The advanced search functionality allows users to discover books based on genre, author, publication date, and reader ratings, all powered by MongoDB's flexible querying. Each purchase is secured through a multi-layer authentication system that protects both buyer and seller information.
+
+**Tech Story:** Developed with a MERN stack approach, focusing on performance optimization for quick page loads even when browsing extensive book catalogs.
+
+[View Project Repository](https://github.com/NgnPhamGiaHuy/bookstore-web-application)
+
+### 🚀 CVGenius - AI Resume Analyzer
+
+I created CVGenius to solve a critical problem job seekers face: getting meaningful feedback on their resumes. This specialized application leverages AI to analyze resumes and provide precise, actionable recommendations that can increase interview callback rates within minutes of use.
+
+The system evaluates resumes across five key dimensions: ATS compatibility, content quality, structural organization, tone and style, and skills alignment. By processing a resume and job description together, CVGenius delivers personalized insights within 30 seconds, highlighting specific improvements that can increase a resume's effectiveness by up to 40%.
+
+**Tech Story:** Developed with React and TypeScript for a responsive frontend, styled with TailwindCSS for a clean user interface, and powered by Claude 3.7 Sonnet AI via the Puter.js platform. State management is handled by Zustand, with React Router providing seamless navigation through the analysis workflow.
+
+[View Project Repository](https://github.com/NgnPhamGiaHuy/ai-resume-analyzer)
+
+## 🔧 How I Build
+
+I believe technology choices should serve the project's purpose rather than dictate its limitations. My toolkit has evolved to include:
+
+<div align="center">
+<h3>Frontend Foundations</h3>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
+
+JavaScript and TypeScript form the basis of my development, enhanced by React's component-based architecture and Next.js for performant server-side rendering. I create responsive designs with Tailwind CSS, maintaining a clean visual language throughout the application.
+
+<div align="center">
+<h3>Backend & Data</h3>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
-### **Other Tools**
+Node.js and Express.js power most of my APIs, connected to MongoDB for flexible document storage or PostgreSQL when relational data matters. Firebase accelerates development when real-time features are essential.
+
+<div align="center">
+<h3>AI Integration</h3>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFBD00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude_AI-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white)
+</div>
+
+Working with OpenAI APIs, Claude models, and Hugging Face transformers has become a central part of my workflow, allowing me to bring intelligent features to otherwise conventional applications.
+
+<div align="center">
+<h3>Development Environment</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
----
+My projects flow through Git for version control, often deployed via Docker containers for consistency across environments, and managed with tools like WebStorm for efficient coding.
 
-## 🏆 Notable Projects
+## 🔮 Vision for the Future
 
-### **1. [Recial - Social Network for Environmental Collaboration](https://github.com/NgnPhamGiaHuy/Recial-Application)**
+My development roadmap extends beyond individual projects to broader technical ambitions:
 
-A social media platform designed to encourage eco-friendly initiatives and environmental engagement.
+- Deeper integration of specialized AI models that can understand industry-specific contexts rather than general-purpose tools
+- Exploration of hybrid cloud architectures that balance cost, performance, and reliability for growing applications
+- Development of more accessible interfaces that make complex data visualization intuitive for non-technical users
+- Creating educational resources that help other developers incorporate AI responsibly into their own projects
 
-🔹 **Key Features:**
-- Built a responsive and dynamic UI with **ReactJS, Redux, TailwindCSS**.
-- Designed and implemented a real-time chat system using **WebSockets**.
-- Developed secure authentication with **JWT** and **NextAuth**.
-- Integrated **Firebase** for media uploads and live streaming.
-- Created a scalable back-end using **Node.js, Express, and MongoDB**.
+## 🤝 Let's Collaborate
 
-### **2. [Storysells - Bookstore Web Application](https://github.com/NgnPhamGiaHuy/Web-Application-Bookstore)**
+I approach collaboration with enthusiasm and an open mind. Whether you're a fellow developer, designer, or domain expert, I believe the best projects emerge from diverse perspectives. If you're interested in working together:
 
-A feature-rich e-commerce platform for book enthusiasts.
+1. Check out my repositories and suggest improvements or new features
+2. Reach out if you have a project idea that aligns with my skills and interests
+3. Connect if you're looking for a developer who brings both technical skills and thoughtful approach
 
-🔹 **Key Features:**
-- Advanced search and filtering powered by **MongoDB**.
-- Secure user authentication and payment system.
-- Interactive shopping cart and review system.
+For contributions to existing projects, simply fork the repository, create a feature branch, and submit a pull request with a clear description of your changes. I review PRs regularly and appreciate all forms of contribution, from code to documentation improvements.
 
-### **3. [AI-Powered Content Generator](https://github.com/NgnPhamGiaHuy/AI-Content-Generator)** *(Work in Progress)*
+## 📈 GitHub Stats
 
-A microservices-based AI-powered content generator designed to automate social media content creation.
-
-🔹 **Tech Stack:** **TypeScript, Next.js, React, Node.js, Express, FastAPI, MongoDB, PostgreSQL**
-
-🔹 **Key Features:**
-- AI-driven content suggestions and performance analytics.
-- Scalable architecture using **microservices and caching**.
-- Direct social media posting integration.
-
----
-
-## 📊 GitHub Stats
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngnphamgiahuy&layout=compact&theme=tokyonight)
 ![Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngnphamgiahuy&show_icons=true&theme=tokyonight)
 
----
+</div>
 
-## 📫 Contact Me
+## 📬 Connect With Me
+
+I'm always open to interesting conversations and new opportunities:
 
 📧 **Email:** [yuh.nguyenpham@gmail.com](mailto:yuh.nguyenpham@gmail.com)  
 🔗 **LinkedIn:** [Nguyen Pham Gia Huy](https://www.linkedin.com/in/nguyenphamgiahuy)  
@@ -100,8 +145,13 @@ A microservices-based AI-powered content generator designed to automate social m
 
 ---
 
-## 🌐 Let's Collaborate!
+<div align="center">
 
-- 🚀 Open to exciting **full-time roles, freelance projects, and open-source collaborations**.
-- 🌱 Looking for **challenging roles in Web Development, System Design, AI integration, and Cloud-based Architectures**.
-- 🎯 Let’s build something impactful together! **Feel free to reach out.**
+### I'm currently open to full-time roles, freelance projects, and open-source collaborations!
+Looking for opportunities in Web Development, AI Integration, and Cloud Architecture.
+
+⭐️ If my work resonates with you, I'd appreciate a star on repositories that catch your interest! ⭐️
+
+<i>Made with ☕ and 💡 by Nguyen Pham Gia Huy</i>
+
+</div>
